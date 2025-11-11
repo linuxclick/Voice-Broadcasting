@@ -6,3 +6,4 @@ pip-tools
 pygraphviz
 django-debug-toolbar-template-timings
 fake-factory
+django>=4.2.26 # not directly required, pinned by Snyk to avoid a vulnerability
