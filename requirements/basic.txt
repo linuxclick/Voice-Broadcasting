@@ -25,3 +25,4 @@ tablib==0.10.0
 requests==2.20.0
 lockfile==0.10.2
 librabbitmq==1.6.1
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
